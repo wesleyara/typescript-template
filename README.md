@@ -13,24 +13,6 @@ It comes with:
 - [Lint-staged](https://github.com/okonet/lint-staged) for linting staged files
 - [Axios](https://axios-http.com/) for HTTP requests
 
-## Usage
-
-```bash
-# Clone the repository
-git clone
-
-# Go into the repository
-cd typescript-template
-
-# Remove the git history
-rm -rf .git
-
-# Install dependencies
-npm install
-#or 
-yarn
-```
-
 # Contributing
 
 Your contribution to the `typescript-template` is essential for the evolution of the project, you can do it as follows:
