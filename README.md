@@ -33,12 +33,12 @@ yarn
 
 # Contributing
 
-Your contribution to the `utils-react` is essential for the evolution of the project, you can do it as follows:
+Your contribution to the `typescript-template` is essential for the evolution of the project, you can do it as follows:
 
-- Open an [issue](https://github.com/wesleyara/utils-react/issues) to clear doubts, report bugs or give ideas
-- Open a [pull request](https://github.com/wesleyara/utils-react/pulls) to give ideas for code improvement, implementation of new features and bug fixes
+- Open an [issue](https://github.com/wesleyara/typescript-template/issues) to clear doubts, report bugs or give ideas
+- Open a [pull request](https://github.com/wesleyara/typescript-template/pulls) to give ideas for code improvement, implementation of new features and bug fixes
 
-These are just some of the ways you can contribute to the project read the [CONTRIBUTING](https://github.com/wesleyara/utils-react/blob/main/.github/CONTRIBUTING.md) for more information
+These are just some of the ways you can contribute to the project read the [CONTRIBUTING](https://github.com/wesleyara/typescript-template/blob/main/.github/CONTRIBUTING.md) for more information
 
 # Authors
 
