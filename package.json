@@ -1,7 +1,7 @@
 {
   "name": "change-project-name",
   "version": "1.0.2",
-  "description": "A React utils functions.",
+  "description": "change-description.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
